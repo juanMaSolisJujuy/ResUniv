@@ -1,0 +1,16 @@
+Package: ResUniv
+Type: Package
+Title: Medidas de resumen univariadas y Tablas de Frecuencias para datos numéricos discretos o continuos.
+Version: 0.1.0
+Author: Juan Manuel Solís
+Maintainer: Juan Manuel Solís <juanmasolis@fca.unju.edu.ar>
+Description: El paquete permite obtener rápidamente una serie de medidas de resumen para datos numéricos discretos o continuos en series simples.
+      También permite obtener tablas de frecuencia clásicas cuando se desea realizar un análisis de series agrupadas.
+      Es posible exportar las salidas utilizando el portapapeles.
+      Está pensado para alumnos de segundo año de las carreras de la Faculad de Ciencias Agrarias de la UNJu, y otros.
+License: This work is licensed under CC BY-NC-SA 4.0.
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
